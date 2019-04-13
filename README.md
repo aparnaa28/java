@@ -1,2 +1,2 @@
 # java
-2nd repo and it contains java codes
+This repository contains java codes
